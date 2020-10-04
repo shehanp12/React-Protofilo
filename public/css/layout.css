@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-backgroun.jpg) no-repeat top center;
+   background: #161415 url(../images/img22.jpeg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -207,9 +207,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 450px;
+   height: 300px;
+   border-radius:0%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
