@@ -3,11 +3,8 @@
     "name":"Shehan Prasanna",
     "occupation":" ",
     "description":"I am an open source enthusiast who is reading a degree in Management Information Systems at National School of Business Management.I mainly interested in Mobile development and Web development",
-
-
-
     "image":"me.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am an enthusiastic and hardworking individual with a great passion for learning new things everyday.I really love challenges and and trying my best to achieve them is my nature.Being a Undergraduate in NSBM ,I am currently learning and  acquiring skills for becoming a Full Stack Developer in my career.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -27,17 +24,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/shehan-prasanna-62b95b188/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/shehanprasa123/?hl=en",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/shehanp12",
         "className":"fa fa-github"
       }
 
@@ -47,16 +44,17 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"NSBM Green University Town",
+        "degree":"Bsc in Management Information Systems(SPECIAL)",
+        "graduated":"March  2022",
+        "description":"As a undergraduate I learnt fundaments of programming like Data Structure and Algorithms, OOP programming with JAVA and mobile application development."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"St.Benedict's College",
+        "degree":"Mathematics Stream",
+        "graduated":"December 2017",
+        "description":"I did my A/L is in 2018 and I have obtained   ",
+
       }
     ],
     "work":[

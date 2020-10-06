@@ -31,11 +31,11 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>A/B/7/24<br />
+						         Ranpokunagama Nittambuwa, 11880
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+						   <span>076-3246789</span><br />
+                     <span>shehanp068@gmail.com</span>
 					   </p>
                </div>
                <div className="columns download">
